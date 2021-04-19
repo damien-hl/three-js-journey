@@ -1,5 +1,9 @@
 # Three.js Journey
+> Suivi de mon avancée sur le cours Three.js Journey
 
+![Three.js logo](./docs/threejs_logo.png)
+
+## Sommaire :
 * [Basic scene](./03-basic-scene)
 * [Webpack](./04-webpack)
 * [Vite](./04-vite)
@@ -13,3 +17,5 @@
 * [Materials](./12-materials)
 * [3D Text](./13-3d-text)
 * [Lights](./14-lights)
+* [Shadows](./15-shadows)
+* [Haunted House](./16-haunted-house)
