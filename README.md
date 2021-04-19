@@ -19,3 +19,5 @@
 * [Lights](./14-lights)
 * [Shadows](./15-shadows)
 * [Haunted House](./16-haunted-house)
+* [Particles](./17-particles)
+* [Galaxy Generator](./18-galaxy-generator)
