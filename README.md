@@ -24,3 +24,4 @@
 * [Raycaster](./19-raycaster)
 * [Physics](./20-physics)
 * [Imported Models](./21-imported-models)
+* [Custom models with Blender](./22-custom-models-with-blender)
