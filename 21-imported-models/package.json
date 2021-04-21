@@ -1,0 +1,17 @@
+{
+  "repository": "#",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.1.5"
+  },
+  "dependencies": {
+    "cannon-es": "^0.17.0",
+    "dat.gui": "^0.7.7",
+    "three": "^0.127.0"
+  }
+}
