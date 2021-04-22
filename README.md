@@ -3,7 +3,8 @@
 
 ![Three.js logo](./docs/threejs_logo.png)
 
-## Sommaire :
+## Sommaire
+### Basics
 * [Basic scene](./03-basic-scene)
 * [Webpack](./04-webpack)
 * [Vite](./04-vite)
@@ -16,12 +17,15 @@
 * [Textures](./11-textures)
 * [Materials](./12-materials)
 * [3D Text](./13-3d-text)
+### Classic techniques
 * [Lights](./14-lights)
 * [Shadows](./15-shadows)
 * [Haunted House](./16-haunted-house)
 * [Particles](./17-particles)
 * [Galaxy Generator](./18-galaxy-generator)
 * [Raycaster](./19-raycaster)
+### Advanced techniques
 * [Physics](./20-physics)
 * [Imported Models](./21-imported-models)
 * [Custom models with Blender](./22-custom-models-with-blender)
+* [Realistic render](./23-realistic-render)
