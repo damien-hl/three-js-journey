@@ -29,3 +29,8 @@
 * [Imported Models](./21-imported-models)
 * [Custom models with Blender](./22-custom-models-with-blender)
 * [Realistic render](./23-realistic-render)
+### Shaders
+* [Shaders](./24-shaders)
+
+## Meta
+Damien Heulin – [Twitter](https://twitter.com/damien_hl) – [Mail](mailto:damienheulin87@gmail.com) – [Github](https://github.com/damien-hl)
