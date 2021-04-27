@@ -31,6 +31,7 @@
 * [Realistic render](./23-realistic-render)
 ### Shaders
 * [Shaders](./24-shaders)
+* [Shader patterns](./25-shader-patterns)
 
 ## Meta
 Damien Heulin – [Twitter](https://twitter.com/damien_hl) – [Mail](mailto:damienheulin87@gmail.com) – [Github](https://github.com/damien-hl)
