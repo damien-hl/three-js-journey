@@ -1,5 +1,5 @@
 # Three.js Journey
-> Suivi de mon avancée sur le cours Three.js Journey
+> Suivi de mon avancée sur le cours [Three.js Journey](https://threejs-journey.xyz/) de [Bruno Simon](https://github.com/brunosimon)
 
 ![Three.js logo](./docs/threejs_logo.png)
 
