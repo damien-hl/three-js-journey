@@ -15,6 +15,7 @@
     "prettier": "^2.2.1"
   },
   "dependencies": {
+    "@dogstudio/highway": "^2.2.2",
     "@fontsource/rubik": "^4.2.2",
     "dat.gui": "^0.7.7",
     "gsap": "^3.6.1",
