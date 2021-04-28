@@ -33,6 +33,7 @@
 * [Shaders](./24-shaders)
 * [Shader patterns](./25-shader-patterns)
 * [Raging sea](./26-raging-sea)
+* [Animated galaxy](./27-animated-galaxy)
 
 ## Meta
 Damien Heulin – [Twitter](https://twitter.com/damien_hl) – [Mail](mailto:damienheulin87@gmail.com) – [Github](https://github.com/damien-hl)
