@@ -34,6 +34,9 @@
 * [Shader patterns](./25-shader-patterns)
 * [Raging sea](./26-raging-sea)
 * [Animated galaxy](./27-animated-galaxy)
+* [Modified materials](./28-modified-materials)
+### Extra
+* [Postprocessing](./29-postprocessing)
 
 ## Meta
 Damien Heulin – [Twitter](https://twitter.com/damien_hl) – [Mail](mailto:damienheulin87@gmail.com) – [Github](https://github.com/damien-hl)
