@@ -37,6 +37,7 @@
 * [Modified materials](./28-modified-materials)
 ### Extra
 * [Postprocessing](./29-postprocessing)
+* [Performance tips](./30-performance-tips)
 
 ## Meta
 Damien Heulin – [Twitter](https://twitter.com/damien_hl) – [Mail](mailto:damienheulin87@gmail.com) – [Github](https://github.com/damien-hl)

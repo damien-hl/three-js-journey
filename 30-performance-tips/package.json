@@ -1,0 +1,19 @@
+{
+  "repository": "#",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.1.5"
+  },
+  "dependencies": {
+    "add": "^2.0.6",
+    "dat.gui": "^0.7.7",
+    "stats.js": "^0.17.0",
+    "three": "^0.127.0",
+    "yarn": "^1.22.10"
+  }
+}
