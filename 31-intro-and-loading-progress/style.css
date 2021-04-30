@@ -17,8 +17,8 @@ body
     height: 2px;
     background-color: #fff;
     transform-origin: center left;
-    /* transform: scaleX(0); */
-    /* transition: transform 0.5s; */
+    transform: scaleX(0);
+    transition: transform 0.5s;
     will-change: transform;
 }
 

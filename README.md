@@ -39,6 +39,8 @@
 * [Postprocessing](./29-postprocessing)
 * [Performance tips](./30-performance-tips)
 * [Intro and loading progress](./31-intro-and-loading-progress)
+* [Mixing HTML and WebGL](./32-mixing-html-and-webgl)
+
 
 ## Meta
 Damien Heulin – [Twitter](https://twitter.com/damien_hl) – [Mail](mailto:damienheulin87@gmail.com) – [Github](https://github.com/damien-hl)
