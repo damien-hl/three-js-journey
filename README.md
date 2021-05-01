@@ -40,6 +40,7 @@
 * [Performance tips](./30-performance-tips)
 * [Intro and loading progress](./31-intro-and-loading-progress)
 * [Mixing HTML and WebGL](./32-mixing-html-and-webgl)
+* [Creating a scene in Blender](./33-creating-a-scene-in-blender)
 
 
 ## Meta
