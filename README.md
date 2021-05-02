@@ -41,6 +41,7 @@
 * [Intro and loading progress](./31-intro-and-loading-progress)
 * [Mixing HTML and WebGL](./32-mixing-html-and-webgl)
 * [Creating a scene in Blender](./33-creating-a-scene-in-blender)
+* [Baking and exporting the scene](./34-baking-and-exporting-the-scene)
 
 
 ## Meta
