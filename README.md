@@ -42,6 +42,7 @@
 * [Mixing HTML and WebGL](./32-mixing-html-and-webgl)
 * [Creating a scene in Blender](./33-creating-a-scene-in-blender)
 * [Baking and exporting the scene](./34-baking-and-exporting-the-scene)
+* [Importing and optimizing the scene](./35-importing-and-optimizing-the-scene)
 
 
 ## Meta
